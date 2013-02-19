@@ -20,7 +20,6 @@
 #popin IMG
 {
   max-width: 95%;
-  max-height: 95%;
 }
 
 #popin #close { color: white; text-align: right;  cursor: pointer; cursor: hand; z-index: 1000; font-family: Arial; }
